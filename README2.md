@@ -66,4 +66,4 @@ Her er lenkene som kunne hjelpe:
 
 ## Forventet resultat
 
-![Image1](Image/Image1)
+<img scr="Image/Image1.png">
