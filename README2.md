@@ -33,15 +33,21 @@ Se nederst
 <p>Apps button</p>
 
 ## How To Use
-Hvilke koder har du brukt? Skrive her:
 
+Det er faktisk bare nettside med knappene som funker ikke, så det har ikke fult funksjonalitet
+
+Jeg har brukt sone type av coder:
 
 ```
-HTML 
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-CSS 
+HTML
+
+<p>I HTML koden jeg har brukt: header, div, a, img, section, input, p, footer, body og html elementene.</p>
+<p>Så med andre ord det er bare skeleten (struktur)</p>
+
+CSS
+
+<p>I CSS koden jag har brukt: margin, padding, font-size, text-decoration, color, display, justify-content, align-items, margin-top, margin-left, margin-right, margin-bottom, background-color, border-radius, height, border, width, padding-top, padding-bottom, outline-style, text-align, position, bottom og border-bottom elementene. </p>
+<p>Her er lenkene som kunne hjelpe:</p>
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
