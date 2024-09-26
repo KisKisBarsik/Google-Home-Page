@@ -50,7 +50,7 @@ CSS
 
 ## Contact
 - GitHub [KisKisBarsik](https://github.com/KisKisBarsik)
-- Epost [KisKisBarsik](sadisintick@gmail.com)
+- Epost [KisKisBarsik](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfttkxnRTfZMLRPRccmtnVQKvxJczrlJJcfkTCSTvBlGjTSkHwXFpzLDXVWvnlPCkDHnvB)
 
 
 ## Happy coding!
