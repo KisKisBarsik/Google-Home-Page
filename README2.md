@@ -26,11 +26,11 @@ Se nederst
 - [CSS](https://www.w3schools.com/css/default.asp)
 
 ## Features
-Search bar
-Buttons in the navbar
-Buttons in the search bar
-Buttons in the footer
-Apps button
+<p>Search bar</p>
+<p>Buttons in the navbar</p>
+<p>Buttons in the search bar</p>
+<p>Buttons in the footer</p>
+<p>Apps button</p>
 
 ## How To Use
 Hvilke koder har du brukt? Skrive her:
