@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a:not(.signin, .eng, .img) {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar1 {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-right: 25px;
+}
+
+a:not(.signin, .eng, .img), img {
+    margin-right: 20px;
+}
+
+
+
+.signin {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    padding: 9px 18px 9px 18px;
+    border-radius: 3px;
+}
+
+        /* Header er over */
+
+        /* Section er nederst */
+
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.input1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    border: 2px solid lightgray;
+    border-radius: 30px;
+    width: 620px;
+}
+
+.logo1 {
+    display: flex;
+    justify-content: center;
+    width: 350px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.glass {
+    width: 40px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-left: 14px;
+}
+
+.micro {
+    width: 19px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 25px;
+}
+
+#input2 {
+    height: 43px;
+    width: 500px;
+    border: none;
+    outline-style: none;
+    font-size: 20px;
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 3%;
+}
+
+.but1 {
+    background-color: lightgray;
+    padding: 15px 25px;
+    border-radius: 3px;
+}
+
+.p1 {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.eng {
+    padding-left: 8px;
+}
+
+
+/* .logo2 {width: 400px;}
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 30%;
+}
+
+.glass {
+    width: 30px;
+    padding-left: 10px;
+}
+
+.mic {
+    width: 20px;
+}
+
+.inp {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid darkgray;
+    border-radius: 30px;
+
+}
+
+.input {
+    border: none;
+    outline-style: none;
+    padding: 15px 0px;
+} */
+
+            /* Section er over */
+
+            /* Footer er nederst */
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(226, 226, 226);
+    width: 100%;
+}
+
+.Norge a, .footer1 a {
+    font-size: 20px;
+}
+
+.Norge {
+    padding: 10px;
+    border-bottom: 1px solid lightslategray;
+}
+
+.footer1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
