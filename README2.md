@@ -1,8 +1,8 @@
 
-<h1 align="center">CSS FlexBox</h1>
+<h1 align="center">Google Landing Page</h1>
 <div align="center">
   <h3>
-    <a href="https://github.com/roykenvgs/test">
+    <a href="https://kiskisbarsik.github.io/Google-Home-Page/">
       Lenken til prosjektet
     </a>
   </h3>
