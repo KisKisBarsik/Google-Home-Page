@@ -66,4 +66,4 @@ Her er lenkene som kunne hjelpe:
 
 ## Forventet resultat
 
-![Image_1](.Image/Image1)
+![Image1](./Image/Image1)
