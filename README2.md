@@ -26,14 +26,15 @@ Se nederst
 - [CSS](https://www.w3schools.com/css/default.asp)
 
 ## Features
-This app comprises use of Stack Navigation and RESTFUL Web APIs
-- Lorem ipsum 
-- Lorem ipsum 
-- Lorem ipsum 
-- Lorem ipsum 
+Search bar
+Buttons in the navbar
+Buttons in the search bar
+Buttons in the footer
+Apps button
 
 ## How To Use
 Hvilke koder har du brukt? Skrive her:
+
 
 ```
 HTML 
@@ -48,15 +49,12 @@ CSS
 ```
 
 ## Contact
-- GitHub [Røyken VGS](https://github.com/roykenvgs)
-- Epost [Røyken VGS](mailto:test@gmail.com)
+- GitHub [KisKisBarsik](https://github.com/KisKisBarsik)
+- Epost [KisKisBarsik](sadisintick@gmail.com)
 
 
 ## Happy coding!
 
 ## Forventet resultat
 
-![Image_1](./bootstrap.png)
-![Image_2](./es6.jpg)
-![Image_3](./images/test.jpg)
-![Image_4](./images/test.jpg)
+![Image_1](.Image/Image1)
