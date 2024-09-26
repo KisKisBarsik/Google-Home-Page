@@ -41,13 +41,16 @@ Jeg har brukt sone type av coder:
 ```
 HTML
 
-<p>I HTML koden jeg har brukt: header, div, a, img, section, input, p, footer, body og html elementene.</p>
-<p>Så med andre ord det er bare skeleten (struktur)</p>
+I HTML koden jeg har brukt: header, div, a, img, section, input, p, footer, body og html elementene.
+
+Så med andre ord det er bare skeleten (struktur)
 
 CSS
 
-<p>I CSS koden jag har brukt: margin, padding, font-size, text-decoration, color, display, justify-content, align-items, margin-top, margin-left, margin-right, margin-bottom, background-color, border-radius, height, border, width, padding-top, padding-bottom, outline-style, text-align, position, bottom og border-bottom elementene. </p>
-<p>Her er lenkene som kunne hjelpe:</p>
+I CSS koden jag har brukt: margin, padding, font-size, text-decoration, color, display, justify-content, align-items, margin-top, margin-left, margin-right, margin-bottom, background-color, border-radius, height, border, width, padding-top, padding-bottom, outline-style, text-align, position, bottom og border-bottom elementene.
+
+Her er lenkene som kunne hjelpe:
+
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
