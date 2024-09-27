@@ -64,6 +64,6 @@ Her er lenkene som kunne hjelpe:
 
 ## Forventet resultat
 
-<img scr="./Images/Image1.png" alt="Bildet1" width="550" />
+![Image1](./Images/Image1.png)
 
 ## Happy coding and thanks for your attention!
