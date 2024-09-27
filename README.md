@@ -62,8 +62,8 @@ Her er lenkene som kunne hjelpe:
 - Epost [sadisintick@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfttkxnRTfZMLRPRccmtnVQKvxJczrlJJcfkTCSTvBlGjTSkHwXFpzLDXVWvnlPCkDHnvB)
 
 
-## Happy coding!
-
 ## Forventet resultat
 
 [Image] (./Image/Image1.png)
+
+## Happy coding and thanks for your attention!
