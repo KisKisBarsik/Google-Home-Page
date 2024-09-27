@@ -66,4 +66,4 @@ Her er lenkene som kunne hjelpe:
 
 ## Forventet resultat
 
-<img scr="Image/Image1.png">
+[Image] (.Image/Image1.png)
