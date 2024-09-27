@@ -19,7 +19,7 @@
 
 <!-- OVERVIEW -->
 ## Overview
-Se nederst.
+Den prosjekten er bare en oppgave, derfor det er ikke så mye ting. Men den prosjekten har knappene (som funker ikke) og input hvor du kan skrive text (som står for ingenting)
 
 ### Built With
 - [HTML](https://www.w3schools.com/html/)
