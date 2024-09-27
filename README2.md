@@ -19,7 +19,7 @@
 
 <!-- OVERVIEW -->
 ## Overview
-Se nederst
+Se nederst.
 
 ### Built With
 - [HTML](https://www.w3schools.com/html/)
